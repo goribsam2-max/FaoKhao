@@ -1,0 +1,5 @@
+{
+  "name": "Faokhao - Community Sharing",
+  "description": "Professional food and donation sharing platform for Bangladesh. Proudly made by: SAMIR",
+  "requestFramePermissions": ["geolocation"]
+}
